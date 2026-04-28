@@ -45,7 +45,7 @@
     <p>Tempat, Tgl Lahir : Bantul, 25 Mei 2008</p>
     <p>Jenis Kelamin : Perempuan</p>
     <p>Agama : Islam</p>
-    <p>Status : Belum Menikah</p>
+    <p>Status : Belum menikah</p>
 
     <div class="section-title">PENDIDIKAN</div>
     <p>Tahun 2014 - 2021 : SD Negeri Tirtosari</p>
